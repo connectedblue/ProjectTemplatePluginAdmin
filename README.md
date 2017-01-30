@@ -1,2 +1,3 @@
-# ProjectTemplatePluginAdmin
-This repository contains tools to help manage the ProjectTemplate plugin architecture
+# ProjectTemplatePlugins
+
+This repository contains standard plugins available for ProjectTemplate
